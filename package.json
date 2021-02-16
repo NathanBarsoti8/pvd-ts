@@ -1,0 +1,24 @@
+{
+  "name": "pvd-ts",
+  "version": "1.0.0",
+  "description": "node api using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanBarsoti8/pvd-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanBarsoti8/pvd-ts/issues"
+  },
+  "homepage": "https://github.com/NathanBarsoti8/pvd-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
